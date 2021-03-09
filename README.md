@@ -1,6 +1,6 @@
 ## Weather Dashboard
 
-Welcome to the weather dashboard application. This application provides a 5 day weather forecast. 
+* Welcome to the weather dashboard application. This application provides a 5 day weather forecast. 
 
 ![](/assets/screenshot13.png)
 
