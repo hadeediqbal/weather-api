@@ -11,4 +11,4 @@ Welcome to the weather dashboard application. This application provides a 5 day 
 
 ![](/assets/screenshot14.png)
 
-
+Credit Source: @sguitjens
